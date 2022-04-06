@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm Gyuri Lee
-- i'm pre-Front-End developer
-<br />
-
 ### 🖥 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
@@ -18,4 +15,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degurrrrrr&show_icons=true&theme=default)
 </div>
 - Here's my blog! 🔎 https://rilee.tistory.com/ <br />
-- and here's my E-mail 📬 <degurrrrrr@gmail.com>
