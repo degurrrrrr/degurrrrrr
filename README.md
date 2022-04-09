@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degurrrrrr&layout=compact)](https://github.com/degurrrrrr/github-readme-stats)
 
-<br />
-
 ### 🎨 Etc
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degurrrrrr&show_icons=true&theme=default)
 </div>
