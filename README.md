@@ -8,5 +8,3 @@ Hi 👋 I'm <b>Gyuri Lee</b>, FrontEnd Developer!
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degurrrrrr&layout=compact)](https://github.com/degurrrrrr/github-readme-stats)
-
-## and 📌 CHECK MY <a href="https://docs.google.com/document/d/14tlaTNOc6FN4dkfEv707CxyXVrfWUtudo3gDS3CMayA/edit?usp=sharing">résumé</a> 📄
